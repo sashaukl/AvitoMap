@@ -1,12 +1,16 @@
-# AvitoMap
+# AvitoMap Single Activity
 * [Задание](#task)
 * [Особености](#features)
 * [Технологии](#tech)
 * [Скриншоты](#sreens)
 * [Ссылки](#links)
 * [Если шалит даггер](#dagger_issue)
-<a name="task"><h2>Задание</h2></a>
 
+
+## [Multi Activity реализация](https://github.com/sashaukl/AvitoMapActivity)
+Данная работа выполднена в двух вариантах, данная Single Activity с навигацией по фрагментам и Multi Activity
+
+<a name="task"><h2>Задание</h2></a>
 ### Фильтр точек на карте
 Дан JSON-объект в файле *pins.json*. Объект содержит массив "сервисов" и массив точек с координатами. Каждая точка относится к какому-либо сервису.
 
