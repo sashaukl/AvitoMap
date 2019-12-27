@@ -4,6 +4,7 @@
 * [Технологии](#tech)
 * [Скриншоты](#sreens)
 * [Ссылки](#links)
+* [Если шалит даггер](#dagger_issue)
 <a name="task"><h2>Задание</h2></a>
 
 ### Фильтр точек на карте
@@ -47,3 +48,6 @@
 
 <a name="links"><h2>Ссылки</h2></a>
 Тут лежит json файл [pins.json](https://github.com/sashaukl/sashaukl.github.io/blob/master/tasks_api/pins.json)
+
+<a name="dagger_issue"><h2>Шалит даггер</h2></a>
+<img src="https://github.com/sashaukl/AvitoMap/blob/master/screens/dagger_gif.gif" width="1000" height="600">
